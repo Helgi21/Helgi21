@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My other profiles:
+- https://github.com/helgisteinarr
+- https://gitlab.com/helgi21
+
 <!--
 **Helgi21/Helgi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
